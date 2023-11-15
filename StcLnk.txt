@@ -1,0 +1,108 @@
+Script started on 2023-11-15 20:31:57+08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;xiaopibo@MSI: ~[01;32mxiaopibo@MSI[00m:[01;34m~[00m$ ls -l
+[?2004ltotal 20
+drwxr-xr-x 3 xiaopibo xiaopibo 4096 Sep 20 18:05 [0m[01;34mSIC_TOOLS[0m
+-rw-r--r-- 1 xiaopibo xiaopibo    0 Nov 15 20:31 StcLnk.txt
+drwxr-xr-x 3 xiaopibo xiaopibo 4096 Nov 13 13:51 [01;34mSysProHw4[0m
+drwxr-xr-x 2 xiaopibo xiaopibo 4096 Sep 16 11:40 [01;34mWslFolder[0m
+drwxr-xr-x 6 xiaopibo xiaopibo 4096 Sep 27 15:27 [01;34mhh-fcc[0m
+drwxr-xr-x 3 xiaopibo xiaopibo 4096 Sep 26 14:48 [01;34mlotterySys[0m
+[?2004h]0;xiaopibo@MSI: ~[01;32mxiaopibo@MSI[00m:[01;34m~[00m$ cd SysProHw4/
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4[00m$ cd [K/[K sor[Kurce//[Klinux/
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux[00m$ cd[K[Kl;s [K[K[Ks -;[Kl
+[?2004ltotal 20
+drwx------ 2 xiaopibo xiaopibo 4096 Nov 13 13:51 [0m[01;34mdynlnk-demo[0m
+-rw-r--r-- 1 xiaopibo xiaopibo   78 Dec 18  2006 hello.c
+drwxr-xr-x 2 xiaopibo xiaopibo 4096 Nov 13 14:38 [01;34mmyStcLink[0m
+drwx------ 2 xiaopibo xiaopibo 4096 Nov 15 20:22 [01;34mstcLnk[0m
+drwx------ 2 xiaopibo xiaopibo 4096 Nov 13 13:51 [01;34mstclnk-demo[0m
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux[00m$ rm stcLnk
+[?2004lrm: cannot remove 'stcLnk': Is a directory
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux[00m$ mkdri[K[Kir stcLnkTest2
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux[00m$ co[Kp hello.c stcLnkTest2
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux[00m$ cd stcLnkTest2
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ ls[K[Kcd[K[Kcp hello.c hello.c[K[KA.c
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ ls -l
+[?2004ltotal 8
+-rw-r--r-- 1 xiaopibo xiaopibo 78 Nov 15 20:33 hello.c
+-rw-r--r-- 1 xiaopibo xiaopibo 78 Nov 15 20:33 helloA.c
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [7m\usr\lib\gcc\x86_64-linux-gnu\11[27m\usr\lib\gcc\x86_64-linux-gnu\11[1Pusr\lib\gcc\x86_64-linux-gnu\11/usr\lib\gcc\x86_64-linux-gnu\11[C[C[C[C[1Plib\gcc\x86_64-linux-gnu\11/lib\gcc\x86_64-linux-gnu\11[C[C[C[C[1Pgcc\x86_64-linux-gnu\11/gcc\x86_64-linux-gnu\11[C[C[C[C[1Px86_64-linux-gnu\11/x86_64-linux-gnu\11[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P11/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[K]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11[C[C/cc1 hello .c
+[?2004lIn file included from [01m[Khello.c:1[m[K:
+[01m[K/usr/include/stdio.h:27:10:[m[K [01;31m[Kfatal error: [m[Kbits/libc-header-start.h: No such file or directory
+   27 | #include [01;31m[K<bits/libc-header-start.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [7mcpp ./hello.c > main.c[27mcpp ./hello.c > main.c
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ cpp ./hello.c > main.c[1@A[C[C[C[C[C[C[C[C[CA.c
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ cpp ./helloA.c > mainA.c[2P.c > main.cA.c > mainA.c[2P.c > main.c/usr/lib/gcc/x86_64-linux-gnu/11/cc1 hello.c[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.c[K[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.c [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.c[1P.cm.ca.ci.c [A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn.c[A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l main
+Analyzing compilation unit
+Performing interprocedural optimizations
+ <*free_lang_data> {heap 872k} <visibility> {heap 872k} <build_ssa_passes> {heap 872k} <opt_local_passes> {heap 1004k} <remove_symbols> {heap 1004k} <targetclone> {heap 1004k} <free-fnsummary> {heap 1004k}Streaming LTO
+ <whole-program> {heap 1004k} <fnsummary> {heap 1004k} <inline> {heap 1004k} <modref> {heap 1004k} <free-fnsummary> {heap 1004k} <single-use> {heap 1004k} <comdats> {heap 1004k}Assembling functions:
+ <simdclone> {heap 1004k} main
+Time variable                                   usr           sys          wall           GGC
+ phase setup                        :   0.00 (  0%)   0.00 (  0%)   0.00 (  0%)  1298k ( 74%)
+ phase opt and generate             :   0.01 (100%)   0.00 (  0%)   0.01 (100%)    59k (  3%)
+ callgraph ipa passes               :   0.00 (  0%)   0.00 (  0%)   0.01 (100%)  4864  (  0%)
+ inline parameters                  :   0.00 (  0%)   0.00 (  0%)   0.01 (100%)   528  (  0%)
+ initialize rtl                     :   0.01 (100%)   0.00 (  0%)   0.00 (  0%)    12k (  1%)
+ TOTAL                              :   0.01          0.00          0.01         1745k
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ /usr/lib/gcc/x86_64-linux-gnu/11/cc1 main.c[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA.c
+[?2004l main
+Analyzing compilation unit
+Performing interprocedural optimizations
+ <*free_lang_data> {heap 872k} <visibility> {heap 872k} <build_ssa_passes> {heap 872k} <opt_local_passes> {heap 1004k} <remove_symbols> {heap 1004k} <targetclone> {heap 1004k} <free-fnsummary> {heap 1004k}Streaming LTO
+ <whole-program> {heap 1004k} <fnsummary> {heap 1004k} <inline> {heap 1004k} <modref> {heap 1004k} <free-fnsummary> {heap 1004k} <single-use> {heap 1004k} <comdats> {heap 1004k}Assembling functions:
+ <simdclone> {heap 1004k} main
+Time variable                                   usr           sys          wall           GGC
+ phase setup                        :   0.00 (  0%)   0.00 (  0%)   0.00 (  0%)  1298k ( 74%)
+ phase parsing                      :   0.00 (  0%)   0.00 (  0%)   0.01 (100%)   377k ( 22%)
+ phase opt and generate             :   0.01 (100%)   0.00 (  0%)   0.00 (  0%)    59k (  3%)
+ parser (global)                    :   0.00 (  0%)   0.00 (  0%)   0.01 (100%)   330k ( 19%)
+ initialize rtl                     :   0.01 (100%)   0.00 (  0%)   0.00 (  0%)    12k (  1%)
+ TOTAL                              :   0.01          0.00          0.01         1745k
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [7mas -o main.o main.s[27mas -o main.o main.s
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ as -o main.o main.s[C[C[CA.s[1@A
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ ;s[K[Kls -l
+[?2004ltotal 68
+-rw-r--r-- 1 xiaopibo xiaopibo    78 Nov 15 20:33 hello.c
+-rw-r--r-- 1 xiaopibo xiaopibo    17 Nov 15 20:35 hello.s
+-rw-r--r-- 1 xiaopibo xiaopibo    78 Nov 15 20:33 helloA.c
+-rw-r--r-- 1 xiaopibo xiaopibo 17970 Nov 15 20:36 main.c
+-rw-r--r-- 1 xiaopibo xiaopibo  1384 Nov 15 20:37 main.o
+-rw-r--r-- 1 xiaopibo xiaopibo   479 Nov 15 20:36 main.s
+-rw-r--r-- 1 xiaopibo xiaopibo 17974 Nov 15 20:36 mainA.c
+-rw-r--r-- 1 xiaopibo xiaopibo  1384 Nov 15 20:37 mainA.o
+-rw-r--r-- 1 xiaopibo xiaopibo   480 Nov 15 20:37 mainA.s
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [7mar rcs libfoo.a[27mar rcs libfoo.a main.o.[K a[KmainA.o
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ ls libfoo.a
+[?2004llibfoo.a
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ ld [Kd  libg[Kf[K[K[K[K[Klibg[Kfoo.a
+[?2004l	not a dynamic executable
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [7mgcc -static -o hello-s main.c -L. libfoo.a[27m [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc -static -o hello-s main.c -L. libfoo.a [A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1@m[1@y[1@W[1@o[1@r[1@ld main.c -L. libfoo.a [A]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ ls -l
+[?2004ltotal 952
+-rw-r--r-- 1 xiaopibo xiaopibo     78 Nov 15 20:33 hello.c
+-rw-r--r-- 1 xiaopibo xiaopibo     17 Nov 15 20:35 hello.s
+-rw-r--r-- 1 xiaopibo xiaopibo     78 Nov 15 20:33 helloA.c
+-rw-r--r-- 1 xiaopibo xiaopibo   2978 Nov 15 20:37 libfoo.a
+-rw-r--r-- 1 xiaopibo xiaopibo  17970 Nov 15 20:36 main.c
+-rw-r--r-- 1 xiaopibo xiaopibo   1384 Nov 15 20:37 main.o
+-rw-r--r-- 1 xiaopibo xiaopibo    479 Nov 15 20:36 main.s
+-rw-r--r-- 1 xiaopibo xiaopibo  17974 Nov 15 20:36 mainA.c
+-rw-r--r-- 1 xiaopibo xiaopibo   1384 Nov 15 20:37 mainA.o
+-rw-r--r-- 1 xiaopibo xiaopibo    480 Nov 15 20:37 mainA.s
+-rwxr-xr-x 1 xiaopibo xiaopibo 900344 Nov 15 20:38 [0m[01;32mmyWorld[0m
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ ./myWorld
+[?2004lHello World!
+[?2004h]0;xiaopibo@MSI: ~/SysProHw4/source/linux/stcLnkTest2[01;32mxiaopibo@MSI[00m:[01;34m~/SysProHw4/source/linux/stcLnkTest2[00m$ scrpt[K[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2023-11-15 20:38:38+08:00 [COMMAND_EXIT_CODE="0"]
